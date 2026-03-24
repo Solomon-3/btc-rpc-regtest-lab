@@ -87,3 +87,5 @@ for tx in txs:
         direction="OUT"
    print(f" {direction} {tx['amount']:+.8f} BTC")
    print(f" txid: {tx['txid'][:32]}...")
+
+# exercise 5
