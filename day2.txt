@@ -1,0 +1,22 @@
+double hash 256
+
+two types of fee that a miner gets each time that they mine 
+
+brain wallet
+hardware wallet
+# jade 
+
+dns seeder can track and even recommend to fellow peers epecially if your node is running lets say a year
+
+for a full node you need like atleast 1TB of storage
+
+the wallets are keys and addressess
+
+last node will be mined in like 2140
+
+#cashunut
+
+
+gorrilla for buying and selling btc ..this is in kenya
+blink
+bitax or arbitax
